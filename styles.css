@@ -302,5 +302,19 @@ section {
   
   div.desc {
     padding: 15px;
-    text-align: center;
+    text-align: left;
   }
+
+
+  /* Img Galley  */
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+
