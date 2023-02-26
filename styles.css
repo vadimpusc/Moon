@@ -28,6 +28,10 @@ nav {
     justify-content: space-between;
 }
 
+nav a {
+    color: white;
+}
+
 ul {
     display: flex;
     list-style-type: none;
