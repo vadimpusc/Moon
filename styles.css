@@ -312,20 +312,18 @@ section {
   }
 
 
-  /* Img Galley  */
-
-  /* .row {
-    display: flex;
-  }
-  
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-  } */
-
-
 img {
     width: 350px;
     object-fit: cover;
     padding: 5px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
 }
