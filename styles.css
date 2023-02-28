@@ -326,13 +326,8 @@ section {
 
 /* new gal code  */
 
-.film-gal {
-    width: 100%;
-    text-align: center;
-}
-
-.images {
-    width: 400px;
-    height: auto;
-    display: inline;
+img {
+    width: 300px;
+    object-fit: cover;
+    padding: 5px;
 }
