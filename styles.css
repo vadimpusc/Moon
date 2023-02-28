@@ -314,20 +314,18 @@ section {
 
   /* Img Galley  */
 
-  .row {
+  /* .row {
     display: flex;
   }
   
   .column {
     flex: 33.33%;
     padding: 5px;
-  }
+  } */
 
-
-/* new gal code  */
 
 img {
-    width: 300px;
+    width: 350px;
     object-fit: cover;
     padding: 5px;
 }
